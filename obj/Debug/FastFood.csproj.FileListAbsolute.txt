@@ -1,0 +1,11 @@
+D:\NBA_C\FastFood\bin\Debug\FastFood.exe.config
+D:\NBA_C\FastFood\bin\Debug\FastFood.exe
+D:\NBA_C\FastFood\bin\Debug\FastFood.pdb
+D:\NBA_C\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+D:\NBA_C\FastFood\obj\Debug\FastFood.Form1.resources
+D:\NBA_C\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+D:\NBA_C\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+D:\NBA_C\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+D:\NBA_C\FastFood\obj\Debug\FastFood.exe
+D:\NBA_C\FastFood\obj\Debug\FastFood.pdb
+D:\NBA_C\FastFood\obj\Debug\FastFood.Login.resources
